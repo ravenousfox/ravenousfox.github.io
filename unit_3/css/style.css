@@ -1,8 +1,13 @@
 body {
 	background-color: #E8BD9A;
-	font-family: "Bebas Neue", sans serif;
+	font-family: Garamond, serif;
 }
 h1,p {
-	color: #48FFFF;
-	font-family: "Bebas Neue", sans serif;
+	color: #3495FF;
+	font-family: Helvetica, sans serif;
+}
+#testing { background-image: url(unit_3/images/typewriter hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
 }
