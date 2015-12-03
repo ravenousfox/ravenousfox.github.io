@@ -5,8 +5,9 @@ p, li {
 	font-family: Garamond, serif;
 }
 
-h1 {
+body, h1 {
 	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
 }
 
 #testing { background-image: url(unit_3/images/typewriter hero.jpg);
